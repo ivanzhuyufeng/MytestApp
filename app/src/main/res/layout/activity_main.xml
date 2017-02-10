@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.mytestapplication.MainActivity">
+
+
+    <Button
+        android:id="@+id/btntest"
+        android:layout_marginTop="63dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btntest"/>
+
+    <Button
+        android:id="@+id/btnlistview"
+        android:layout_marginTop="126dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnlistview"/>
+
+    <Button
+        android:id="@+id/btnmsg"
+        android:layout_marginTop="189dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnmsg"/>
+
+    <Button
+    android:id="@+id/btnbroadcast"
+    android:layout_marginTop="252dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/btnbroadcast"/>
+
+    <Button
+        android:id="@+id/btnoffline"
+        android:layout_marginTop="315dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnoffline"/>
+</RelativeLayout>

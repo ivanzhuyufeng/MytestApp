@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">第一行代码</string>
+    <string name="btntest">多媒体</string>
+    <string name="btnfirst">访问网页</string>
+    <string name="btnNotify">通知</string>
+    <string name="btnMessage">短信</string>
+    <string name="btnCamera">相机</string>
+    <string name="btnMp3">音乐</string>
+    <string name="btnVedio">视频</string>
+    <string name="btnlistview">测试List</string>
+    <string name="btnmsg">聊天</string>
+    <string name="btnbroadcast">网络监测</string>
+    <string name="btnoffline">强制下线</string>
+</resources>
